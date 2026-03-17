@@ -1,2 +1,3 @@
 Test for co-authored commit
 First co-authored test line
+Second co-authored test line
