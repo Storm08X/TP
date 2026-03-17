@@ -5,3 +5,4 @@ Third co-authored test line
 Initial commit
 Co-authored test line 1
 Co-authored test line 2
+Co-authored test line 3
